@@ -1,0 +1,10 @@
+* cl-apple-plist
+
+Encodes Common Lisp data structures in Apple property list XML format (.plist).
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/RobBlackwell/cl-apple-plist.git   |
+| commit  | c5eb0a9  |
+| systems | cl-apple-plist |
+|---------+-------------------------------------------|
+
